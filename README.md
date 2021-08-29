@@ -1,5 +1,7 @@
 # php_project
-College PHP and SQL project
+College PHP and SQL project to interact with an Apache server and MySQL database (implemented with Xampp).
+
+Results Pictures.
 <img width="960" alt="dreamhome1" src="https://user-images.githubusercontent.com/37781244/131267684-5fbb52e5-479a-473f-b7ee-4d9b341d2b3d.png">
 <img width="960" alt="dreamhome2" src="https://user-images.githubusercontent.com/37781244/131267688-871d3f54-da63-429c-ba14-97970d6dfa3d.png">
 <img width="960" alt="dreamhome3" src="https://user-images.githubusercontent.com/37781244/131267690-c819398a-d9a3-472e-ba91-f38e12341127.png">
